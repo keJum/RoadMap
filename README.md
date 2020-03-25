@@ -1,10 +1,10 @@
 #  Путь развития разработчика
 Содержание:
-- 🐘 PHP
-  - 🐠[ Intern ]()
-  - 🦧[ Junior ]()
-  - 🧔[ Middle ]()
-  - 👽[ Senior ]()
+- 🐘 [PHP] (https://github.com/keJum/Roadmap/edit/master/PHP/README.md)
+  - 🐠[ Intern ](https://github.com/keJum/Roadmap/blob/master/PHP/README.md#Intern)
+  - 🦧[ Junior ](https://github.com/keJum/Roadmap/blob/master/PHP/README.md#Junior)
+  - 🧔[ Middle ](https://github.com/keJum/Roadmap/blob/master/PHP/README.md#Middle)
+  - 👽[ Senior ](https://github.com/keJum/Roadmap/blob/master/PHP/README.md#Senior)
 
 # Все требования
 ## Парадигмы
